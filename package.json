@@ -1,0 +1,12 @@
+{
+  "name": "tiktok-sunucu",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "tiktok-live-api": "latest",
+    "ws": "^8.18.0"
+  }
+}
