@@ -1,12 +1,13 @@
 {
-  "name": "tiktok-sunucu",
+  "name": "tiktok-ucretsiz-sunucu",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "tiktok-live-api": "latest",
+    "tiktok-live-connector": "latest",
     "ws": "^8.18.0"
   }
 }
+
